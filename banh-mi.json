@@ -1,0 +1,263 @@
+{
+  "code": 200,
+  "success": true,
+  "message": "success",
+  "data": [
+    {
+      "id": 1,
+      "name": "Bánh Mì Ốp La",
+      "description": "Bánh mì giòn nóng ăn kèm pate, mayonnaise và trứng ốp la béo ngậy, hương vị đơn giản nhưng cực kỳ cuốn hút.",
+      "imageUrl": "https://www.banhmi362.com/images/banhmi/trung.png",
+      "basePrice": 49000,
+      "soldCount": null,
+      "category": {
+        "id": 1,
+        "name": "Bánh mì",
+        "imageUrl": "https://cdn-media.hanoitimes.vn/2021/3/20/z2388286964567_365ff5742704671dadede255cf83f869.jpg"
+      },
+      "brand": {
+        "id": 9,
+        "name": "Bánh mì 362",
+        "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSw9XkScM-9UchOBZxscj9gAbZOHs9ED_5IRg&s"
+      }
+    },
+    {
+      "id": 2,
+      "name": "Bánh Mì Pate Bơ",
+      "description": "Lớp pate thơm béo kết hợp cùng bơ và mayonnaise, mang đến vị mặn mà hòa quyện trong chiếc bánh mì giòn rụm.",
+      "imageUrl": "https://www.banhmi362.com/images/banhmi/patebo.png",
+      "basePrice": 49000,
+      "soldCount": null,
+      "category": {
+        "id": 1,
+        "name": "Bánh mì",
+        "imageUrl": "https://cdn-media.hanoitimes.vn/2021/3/20/z2388286964567_365ff5742704671dadede255cf83f869.jpg"
+      },
+      "brand": {
+        "id": 9,
+        "name": "Bánh mì 362",
+        "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSw9XkScM-9UchOBZxscj9gAbZOHs9ED_5IRg&s"
+      }
+    },
+    {
+      "id": 3,
+      "name": "Bánh Mì Cá Hộp",
+      "description": "Bánh mì kết hợp pate, mayonnaise và cá hộp sốt cà chua đậm đà, thơm ngon và cực kỳ bắt vị.",
+      "imageUrl": "https://www.banhmi362.com/images/banhmi/ca.png",
+      "basePrice": 53000,
+      "soldCount": null,
+      "category": {
+        "id": 1,
+        "name": "Bánh mì",
+        "imageUrl": "https://cdn-media.hanoitimes.vn/2021/3/20/z2388286964567_365ff5742704671dadede255cf83f869.jpg"
+      },
+      "brand": {
+        "id": 9,
+        "name": "Bánh mì 362",
+        "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSw9XkScM-9UchOBZxscj9gAbZOHs9ED_5IRg&s"
+      }
+    },
+    {
+      "id": 4,
+      "name": "Bánh Mì Omelete",
+      "description": "Trứng chiên omelette mềm xốp ăn kèm pate, mayonnaise, jambon, hành tây và cà chua tạo nên hương vị đầy đặn và hấp dẫn.",
+      "imageUrl": "https://www.banhmi362.com/images/banhmi/oplet.png",
+      "basePrice": 53000,
+      "soldCount": null,
+      "category": {
+        "id": 1,
+        "name": "Bánh mì",
+        "imageUrl": "https://cdn-media.hanoitimes.vn/2021/3/20/z2388286964567_365ff5742704671dadede255cf83f869.jpg"
+      },
+      "brand": {
+        "id": 9,
+        "name": "Bánh mì 362",
+        "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSw9XkScM-9UchOBZxscj9gAbZOHs9ED_5IRg&s"
+      }
+    },
+    {
+      "id": 5,
+      "name": "Bánh Mì Gà",
+      "description": "Thịt gà mềm thơm kết hợp cùng pate và mayonnaise, tạo nên chiếc bánh giàu protein và đậm đà hương vị.",
+      "imageUrl": "https://www.banhmi362.com/images/banhmi/ga.png",
+      "basePrice": 53000,
+      "soldCount": null,
+      "category": {
+        "id": 1,
+        "name": "Bánh mì",
+        "imageUrl": "https://cdn-media.hanoitimes.vn/2021/3/20/z2388286964567_365ff5742704671dadede255cf83f869.jpg"
+      },
+      "brand": {
+        "id": 9,
+        "name": "Bánh mì 362",
+        "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSw9XkScM-9UchOBZxscj9gAbZOHs9ED_5IRg&s"
+      }
+    },
+    {
+      "id": 6,
+      "name": "Bánh Mì Chà Bông",
+      "description": "Chà bông mặn ngọt hòa quyện cùng pate và mayonnaise, mang đến cảm giác mềm - giòn cực kỳ hài hòa.",
+      "imageUrl": "https://www.banhmi362.com/images/banhmi/chabong.png",
+      "basePrice": 53000,
+      "soldCount": null,
+      "category": {
+        "id": 1,
+        "name": "Bánh mì",
+        "imageUrl": "https://cdn-media.hanoitimes.vn/2021/3/20/z2388286964567_365ff5742704671dadede255cf83f869.jpg"
+      },
+      "brand": {
+        "id": 9,
+        "name": "Bánh mì 362",
+        "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSw9XkScM-9UchOBZxscj9gAbZOHs9ED_5IRg&s"
+      }
+    },
+    {
+      "id": 7,
+      "name": "Bánh Mì Thịt Chả",
+      "description": "Hỗn hợp chả và thịt nguội thơm béo ăn kèm pate và mayonnaise, mang đến hương vị truyền thống chuẩn Việt.",
+      "imageUrl": "https://www.banhmi362.com/images/banhmi/cha.png",
+      "basePrice": 57000,
+      "soldCount": null,
+      "category": {
+        "id": 1,
+        "name": "Bánh mì",
+        "imageUrl": "https://cdn-media.hanoitimes.vn/2021/3/20/z2388286964567_365ff5742704671dadede255cf83f869.jpg"
+      },
+      "brand": {
+        "id": 9,
+        "name": "Bánh mì 362",
+        "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSw9XkScM-9UchOBZxscj9gAbZOHs9ED_5IRg&s"
+      }
+    },
+    {
+      "id": 8,
+      "name": "Bánh Mì Xíu Mại",
+      "description": "Xíu mại mềm mọng thịt kết hợp cùng pate, tạo nên vị ngọt thịt đặc trưng và cực kỳ đậm đà.",
+      "imageUrl": "https://www.banhmi362.com/images/banhmi/xiumai.png",
+      "basePrice": 57000,
+      "soldCount": null,
+      "category": {
+        "id": 1,
+        "name": "Bánh mì",
+        "imageUrl": "https://cdn-media.hanoitimes.vn/2021/3/20/z2388286964567_365ff5742704671dadede255cf83f869.jpg"
+      },
+      "brand": {
+        "id": 9,
+        "name": "Bánh mì 362",
+        "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSw9XkScM-9UchOBZxscj9gAbZOHs9ED_5IRg&s"
+      }
+    },
+    {
+      "id": 9,
+      "name": "Bánh Mì Thịt Cuộn",
+      "description": "Thịt cuộn mềm dai độc đáo hòa quyện cùng pate và mayonnaise, tạo nên hương vị mới lạ nhưng rất dễ ăn.",
+      "imageUrl": "https://www.banhmi362.com/images/banhmi/thitcuon.png",
+      "basePrice": 59000,
+      "soldCount": null,
+      "category": {
+        "id": 1,
+        "name": "Bánh mì",
+        "imageUrl": "https://cdn-media.hanoitimes.vn/2021/3/20/z2388286964567_365ff5742704671dadede255cf83f869.jpg"
+      },
+      "brand": {
+        "id": 9,
+        "name": "Bánh mì 362",
+        "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSw9XkScM-9UchOBZxscj9gAbZOHs9ED_5IRg&s"
+      }
+    },
+    {
+      "id": 10,
+      "name": "Bánh Mì 362",
+      "description": "Phiên bản đặc biệt gồm trứng chiên, jambon và chà bông ăn kèm pate và mayonnaise — lựa chọn 'signature' của thương hiệu.",
+      "imageUrl": "https://www.banhmi362.com/images/banhmi/362.png",
+      "basePrice": 59000,
+      "soldCount": null,
+      "category": {
+        "id": 1,
+        "name": "Bánh mì",
+        "imageUrl": "https://cdn-media.hanoitimes.vn/2021/3/20/z2388286964567_365ff5742704671dadede255cf83f869.jpg"
+      },
+      "brand": {
+        "id": 9,
+        "name": "Bánh mì 362",
+        "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSw9XkScM-9UchOBZxscj9gAbZOHs9ED_5IRg&s"
+      }
+    },
+    {
+      "id": 11,
+      "name": "Bánh Mì Nấm",
+      "description": "Nhân nấm thơm mềm kết hợp mayonnaise, mang đến lựa chọn nhẹ nhàng, thanh đạm nhưng vẫn đậm vị.",
+      "imageUrl": "https://www.banhmi362.com/images/banhmi/nam.png",
+      "basePrice": 53000,
+      "soldCount": null,
+      "category": {
+        "id": 1,
+        "name": "Bánh mì",
+        "imageUrl": "https://cdn-media.hanoitimes.vn/2021/3/20/z2388286964567_365ff5742704671dadede255cf83f869.jpg"
+      },
+      "brand": {
+        "id": 9,
+        "name": "Bánh mì 362",
+        "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSw9XkScM-9UchOBZxscj9gAbZOHs9ED_5IRg&s"
+      }
+    },
+    {
+      "id": 12,
+      "name": "Bánh Mì Phô Mai",
+      "description": "Phô mai béo mặn kết hợp cùng mayonnaise, tạo nên chiếc bánh thơm ngậy phù hợp cho người thích vị béo.",
+      "imageUrl": "https://www.banhmi362.com/images/banhmi/phomai.png",
+      "basePrice": 53000,
+      "soldCount": null,
+      "category": {
+        "id": 1,
+        "name": "Bánh mì",
+        "imageUrl": "https://cdn-media.hanoitimes.vn/2021/3/20/z2388286964567_365ff5742704671dadede255cf83f869.jpg"
+      },
+      "brand": {
+        "id": 9,
+        "name": "Bánh mì 362",
+        "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSw9XkScM-9UchOBZxscj9gAbZOHs9ED_5IRg&s"
+      }
+    },
+    {
+      "id": 13,
+      "name": "Bánh Mì Xíu Mại Chay",
+      "description": "Xíu mại chay được chế biến từ thực vật nhưng vẫn giữ độ mềm và vị ngọt tự nhiên, ăn cùng mayonnaise rất hài hòa.",
+      "imageUrl": "https://www.banhmi362.com/images/banhmi/xiumaichay.png",
+      "basePrice": 59000,
+      "soldCount": null,
+      "category": {
+        "id": 1,
+        "name": "Bánh mì",
+        "imageUrl": "https://cdn-media.hanoitimes.vn/2021/3/20/z2388286964567_365ff5742704671dadede255cf83f869.jpg"
+      },
+      "brand": {
+        "id": 9,
+        "name": "Bánh mì 362",
+        "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSw9XkScM-9UchOBZxscj9gAbZOHs9ED_5IRg&s"
+      }
+    },
+    {
+      "id": 14,
+      "name": "Bánh Mì Bò",
+      "description": "Thịt bò đậm đà, mềm thơm kết hợp cùng pate và mayonnaise, mang đến hương vị chắc thịt và đầy năng lượng.",
+      "imageUrl": "https://www.banhmi362.com/images/banhmi/bo.png",
+      "basePrice": 64000,
+      "soldCount": null,
+      "category": {
+        "id": 1,
+        "name": "Bánh mì",
+        "imageUrl": "https://cdn-media.hanoitimes.vn/2021/3/20/z2388286964567_365ff5742704671dadede255cf83f869.jpg"
+      },
+      "brand": {
+        "id": 9,
+        "name": "Bánh mì 362",
+        "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSw9XkScM-9UchOBZxscj9gAbZOHs9ED_5IRg&s"
+      }
+    }
+  ],
+  "timestamp": 1736541312000,
+  "metadata": {
+    "size": 14
+  }
+}
