@@ -1,0 +1,81 @@
+{
+  "code": 200,
+  "success": true,
+  "message": "create order successfully",
+  "data": {
+    "orderId": "O20250110123456",
+    "items": [
+      {
+        "food": {
+          "id": 2,
+          "name": "Bánh Mì Pate Bơ",
+          "description": "Lớp pate thơm béo kết hợp cùng bơ và mayonnaise, mang đến vị mặn mà hòa quyện trong chiếc bánh mì giòn rụm.",
+          "imageUrl": "https://www.banhmi362.com/images/banhmi/patebo.png",
+          "basePrice": 49000,
+          "categoryId": 1,
+          "brandId": 9,
+          "snapshot": true
+        },
+        "itemPricing": {
+          "amount": 49000,
+          "optionCost": 6000,
+          "quantity": 2,
+          "subtotal": 110000
+        },
+        "options": [
+          {
+            "optionId": "111",
+            "name": "Lựa chọn ớt",
+            "value": "Không ớt",
+            "cost": 0,
+            "snapshot": true
+          },
+          {
+            "optionId": "222",
+            "name": "Lựa chọn patê",
+            "value": "Ít patê",
+            "cost": 0,
+            "snapshot": true
+          },
+          {
+            "optionId": "333",
+            "name": "Lựa chọn topping",
+            "value": "2 trứng",
+            "cost": 6000,
+            "snapshot": true
+          }
+        ]
+      }
+    ],
+    "orderPricing": {
+      "amount": 110000,
+      "shipping": 22000,
+      "discount": 10000,
+      "total": 131000
+    },
+    "payment": {
+      "paymentMethod": "momo",
+      "paymentStatus": "awaiting_payment",
+      "gateway": {
+        "name": "momo",
+        "transactionId": null,
+        "redirectUrl": "https://momo.vn/pay?token...",
+        "extraData": {}
+      }
+    },
+    "address": {
+      "addressId": "123",
+      "phone": "012345678",
+      "longitude": 10.871355874268529,
+      "latitude": 106.79179776930363,
+      "location": "VQCR+GP6, khu phố 6, Thủ Đức, Thành phố Hồ Chí Minh, Việt Nam",
+      "name": "Trường Đại học Nông Lâm TP. Hồ Chí Minh",
+      "snapshot": true
+    },
+    "voucherCode": "FREESHIP12122025",
+    "status": "pending",
+    "createdAt": "2025-01-10T15:20:00Z"
+  },
+  "timestamp": null,
+  "metadata": {}
+}
