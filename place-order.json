@@ -59,7 +59,7 @@
       "gateway": {
         "name": "momo",
         "transactionId": null,
-        "redirectUrl": "https://momo.vn/pay?token...",
+        "redirectUrl": "https://test-payment.momo.vn/v2/gateway/pay?t=TU9NT1Q1QloyMDIzMTIxM19URVNUfFBhcnRuZXJfVHJhbnNhY3Rpb25fSURfMTcyMTcyMDYyMDA3OA&s=6c14385cd4355e0abe0e0563a2da20705bceca9fac79746b2bf6a4c380374b44",
         "extraData": {}
       }
     },
